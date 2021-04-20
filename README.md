@@ -1,2 +1,2 @@
-# HTML_CSS_TASK
+# HTML_Structure
 Created with CodeSandbox
